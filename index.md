@@ -1,5 +1,4 @@
 ---
-title: Design to Code Diary
 layout: default
 ---
 
