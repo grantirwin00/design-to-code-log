@@ -1,8 +1,9 @@
 ---
+title: Design to Code Diary
 layout: default
 ---
 
-# Design to Code Diary
+# Welcome!
 
 ## What This Is
 
