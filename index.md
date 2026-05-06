@@ -2,7 +2,9 @@
 layout: default
 ---
 
-# What This Is
+# Design to Code Diary
+
+## What This Is
 
 Every project leaves a trail of choices -- some deliberate, some accidental, most worth remembering. This log captures the reasoning behind the work: what was tried, what failed, and what actually shipped.
 
