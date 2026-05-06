@@ -3,35 +3,10 @@
 
 @import url('https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,300;9..40,400;9..40,500;9..40,600&display=swap');
 
-body {
-  background-color: rgb(18, 18, 18);
-  color: rgb(245, 245, 245);
-}
-
 a {
   color: rgb(255, 184, 133);
 }
 
 a:hover {
   color: rgb(255, 212, 176);
-}
-
-.site-header {
-  background-color: rgb(10, 10, 10);
-  border-top: none;
-  border-bottom: 1px solid rgb(46, 46, 46);
-}
-
-.site-nav .page-link {
-  color: rgb(245, 245, 245);
-}
-
-.site-footer {
-  background-color: rgb(10, 10, 10);
-  border-top: 1px solid rgb(46, 46, 46);
-  color: rgb(136, 136, 136);
-}
-
-.footer-col {
-  color: rgb(136, 136, 136);
 }
