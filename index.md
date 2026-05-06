@@ -43,7 +43,7 @@ Think of it as a second brain for design thinking.
 ## About
 
 <div style="display: flex; align-items: center; gap: 16px;">
-  <img src="https://secured-assets.ripplingcdn.com/us1/hris/60d4a799df82b0ddf2f2a111/hris/47182285de7a406a80af8271921e6da5.jpg?Expires=1778169403&Signature=NmxZSbtaLid2RvstnrCY50i3-WCxmDAmP1TA5jAAIFW1bIajzHenTApr46Qbw5bOApFdRjt-wkC6yH99TcphnphHI5zCjYKPNtP1tfnDILKeFF66EQlvxOox1VNAXApuXmn0zKhGtVequd08YkedKhFzXW5prMQevroDQXV~xABGD8MB28MqscbDMGzcBnPb6GihL8XloI4VH8TqMu2tTscYfuthZy1u5sKD4YCuDBTVYHEPMNmz6NTuujYX8dSdIa7EN4ue5YFunDW4AwUs32v3gycjGAiAC9~gSwrklHQDBEhwWyYIytyPUkpZiyxdDtyyvpbcR945q-1Wk3dl3w__&Key-Pair-Id=K2SM3GXN9F9XGM" width="200" height="200" style="object-fit: cover; border-radius: 8px;" alt="Grant Irwin, senior product designer based in the U.S.">
+  <img src="https://secured-assets.ripplingcdn.com/us1/hris/60d4a799df82b0ddf2f2a111/hris/47182285de7a406a80af8271921e6da5.jpg?Expires=1778169403&Signature=NmxZSbtaLid2RvstnrCY50i3-WCxmDAmP1TA5jAAIFW1bIajzHenTApr46Qbw5bOApFdRjt-wkC6yH99TcphnphHI5zCjYKPNtP1tfnDILKeFF66EQlvxOox1VNAXApuXmn0zKhGtVequd08YkedKhFzXW5prMQevroDQXV~xABGD8MB28MqscbDMGzcBnPb6GihL8XloI4VH8TqMu2tTscYfuthZy1u5sKD4YCuDBTVYHEPMNmz6NTuujYX8dSdIa7EN4ue5YFunDW4AwUs32v3gycjGAiAC9~gSwrklHQDBEhwWyYIytyPUkpZiyxdDtyyvpbcR945q-1Wk3dl3w__&Key-Pair-Id=K2SM3GXN9F9XGM" width="100" height="100" style="object-fit: cover; border-radius: 8px;" alt="Grant Irwin, senior product designer based in the U.S.">
   <div>
     Built and maintained by <a href="https://github.com/grantirwin00">Grant Irwin</a>.<br>
     Source on <a href="https://github.com/grantirwin00/design-to-code-log">GitHub</a>.
