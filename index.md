@@ -30,7 +30,7 @@ Think of it as a second brain for design thinking.
   <tbody>
     <tr>
       <td>2026-05-06</td>
-      <td><a href="2024/01/01/Welcome.html">Welcome to My Design Log</a></td>
+      <td><a href="2026/05/04/Day-1.html">Day 1: Learning & Using GitHub</a></td>
       <td>Site setup and first post</td>
     </tr>
   </tbody>
