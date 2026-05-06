@@ -1,9 +1,4 @@
-remote_theme: jekyll/minima
-plugins:
-  - jekyll-remote-theme
-  - jekyll-feed
+theme: minima
 title: Design to Code Diary
 author: Grant Irwin
 description: A running record of design decisions, iterations, and lessons learned.
-minima:
-  skin: dark
