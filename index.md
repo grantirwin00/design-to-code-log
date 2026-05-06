@@ -3,13 +3,7 @@ title: Design to Code Diary
 layout: default
 ---
 
-# Design to Code Diary
-
-*A running record of decisions, iterations, and lessons learned.*
-
----
-
-## What This Is
+# What This Is
 
 Every project leaves a trail of choices -- some deliberate, some accidental, most worth remembering. This log captures the reasoning behind the work: what was tried, what failed, and what actually shipped.
 
