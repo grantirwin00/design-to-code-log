@@ -28,6 +28,8 @@ Think of it as a second brain for design thinking.
       <td>2026-05-06</td>
       <td><a href="2026/05/04/Day-1.html">Day 1: Learning & Using GitHub</a></td>
       <td>Site setup and first post</td>
+    </tr>
+    <tr>
       <td>2026-05-05</td>
       <td><a href="2026/05/05/Day-2.html">Day 2: Building Craft & Defining Growth</a></td>
       <td>Internal tooling & goal development</td>
