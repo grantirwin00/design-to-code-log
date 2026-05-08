@@ -1,0 +1,58 @@
+---
+title: "Day 2: Building Craft & Defining Growth"
+date: 2026-05-05
+layout: default
+---
+
+<a href="/design-to-code-log/" style="display: inline-block; transition: all 0.2s ease;"
+  onmouseover="this.style.opacity='0.7'; this.style.transform='scale(1.05)';"
+  onmouseout="this.style.opacity='1'; this.style.transform='scale(1)';">
+  ← Back to Home
+</a>
+
+# Day 2: Building Craft & Defining Growth
+
+Two separate threads today -- one about building a tool, one about building a career.
+
+---
+
+## Craft: An Internal Design Growth Program
+
+Started with a context dump on Midwestern's internal design process: the 5-phase design thinking framework, AI-augmented tooling across Zoom, Claude, Figma, Notion, Cursor, and GitHub. The problem to solve: build an internal alternative to PIPs and growth plans -- something positive, self-directed, and useful during non-billable time.
+
+The output is **Craft** -- a single HTML file. No login, no tracking, no dependencies. Seven pre-populated learning buckets:
+
+1. Research & Discovery
+2. UX & Systems Thinking
+3. Visual Craft
+4. Prototyping & Motion
+5. AI & Tooling
+6. Communication & Storytelling
+7. Front-End Literacy
+
+Each bucket contains curated resources, time estimates, and editorial notes on why the material matters. A ghost card holds space for team-defined buckets down the road.
+
+### Visual Refinement
+
+Went through two rounds of iteration after the initial build:
+
+**Round 1** -- standardized typography to DM Sans, tightened border radii, opened up spacing.
+
+**Round 2** -- full light-mode restyle to match midwestern.com. Cool lavender-gray background, white card surfaces, lime highlight treatment, hairline grid dividers, and a dark "Why it matters" panel pulled from their site's callout section pattern.
+
+---
+
+## Leapsome Goal Development
+
+In a separate conversation, built out a full FY 26-27 professional development plan: phased quarterly timeline, SMART goals, free learning resources, and a weekly time budget. After seeing the first draft, pulled it back intentionally -- less ambition on the code side, more tinkering than building.
+
+From there, expanded into two additional Leapsome goal tracks:
+
+- **Department goal** -- largely already defined, just needed clean framing
+- **Personal goal** -- presented as a menu of options, two were chosen
+
+The final pass tightened everything into Leapsome-ready language: summary statements, key results, and a reusable context block for future AI chats.
+
+### What I Learned
+
+Writing goals for a platform like Leapsome forces a useful constraint -- vague intentions don't survive the format. The elicitation round before writing made a significant difference in output quality. Getting the right inputs before generating anything is a pattern worth repeating.
