@@ -34,6 +34,11 @@ Think of it as a second brain for design thinking.
       <td><a href="2026/05/05/Day-2.html">Day 2: Building Craft & Defining Growth</a></td>
       <td>Internal tooling & goal development</td>
     </tr>
+    <tr>
+      <td>2026-05-10</td>
+      <td><a href="2026/05/10/Day-3.html">Day 3: Shipping Craft</a></td>
+      <td>Craft — internal design growth program</td>
+    </tr>
   </tbody>
 </table>
 
