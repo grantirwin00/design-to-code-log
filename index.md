@@ -39,6 +39,11 @@ Think of it as a second brain for design thinking.
       <td><a href="2026/05/10/Day-3.html">Day 3: Shipping Craft</a></td>
       <td>Craft — internal design growth program</td>
     </tr>
+    <tr>
+      <td>2026-05-12</td>
+      <td><a href="2026/05/12/Day-4.html">Day 4: Craft Gets Smarter</a></td>
+      <td>Craft — guided learning paths & GitHub CMS</td>
+    </tr>
   </tbody>
 </table>
 
